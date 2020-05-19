@@ -9,13 +9,18 @@
 智能解析节点（中国大陆走深圳，其他地区走香港/新加坡）
 全球加速节点（CloudFlare全球全站代理）
 
+个人主页
+新加坡节点：i.bluesky.cf
+深圳节点：blueskyxn.xyz
+香港节点：bluesky.cf
+
 苍穹之下-国际版
 新加坡节点：www.bluesky.cf
 全球加速节点：bluesky.cf
+新加坡节点：i.blueskyxn.xyz（仅非大陆访问，大陆跳转至中国大陆版深圳节点）
 
 苍穹之小屋-中国大陆版
-深圳节点：www.blueskyxn.xyz
-深圳节点：blueskyxn.xyz（仅名片）
+深圳节点：www.blueskyxn.xyz（仅大陆访问，其他地区跳转至国际版全球加速节点）
 香港节点：hk.blueskyxn.xyz
 
 随机图API
@@ -26,7 +31,7 @@
 
 公益图床
 美西节点：www.skyimg.cf
-深新中转节点：imggit.blueskyxn.xyz
+深新中转节点：imggit.blueskyxn.xyz（仅大陆访问，其他地区跳转至美西节点）
 
 科学之网
 全球加速节点：www.skyvpn.cf/skyvpn.cf
