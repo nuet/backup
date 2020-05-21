@@ -10,23 +10,23 @@
 全球加速节点（CloudFlare全球全站代理）
 
 个人主页
-新加坡节点：i.bluesky.cf
+香港节点：i.bluesky.cf
 深圳节点：blueskyxn.xyz
-香港节点：bluesky.cf
+新加坡节点：bluesky.cf
 
 苍穹之下-国际版
 新加坡节点：www.bluesky.cf
 全球加速节点：bluesky.cf
-新加坡节点：i.blueskyxn.xyz（仅非大陆访问，大陆跳转至中国大陆版深圳节点）
+新加坡节点：i.blueskyxn.xyz（仅非大陆访问）
 
 苍穹之小屋-中国大陆版
-深圳节点：www.blueskyxn.xyz（仅大陆访问，其他地区跳转至国际版全球加速节点）
-香港节点：hk.blueskyxn.xyz
+深圳节点：www.blueskyxn.xyz（仅大陆访问）
+
 
 随机图API
-香港节点：www.img.bluesky.cf
+新加坡节点：img.bluesky.cf
+深圳节点：www.img.bluesky.cf
 深圳节点：www.img.blueskyxn.xyz
-智能解析节点：img.blueskyxn.xyz
 
 
 公益图床
